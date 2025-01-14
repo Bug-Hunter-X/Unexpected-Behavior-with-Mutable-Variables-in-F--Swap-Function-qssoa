@@ -1,0 +1,1 @@
+This repository demonstrates a common issue encountered when working with mutable variables in F#.  The `swap` function attempts to exchange the values of two mutable variables, `x` and `y`, but produces incorrect results.  The solution showcases a correct implementation.
